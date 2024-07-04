@@ -1,0 +1,97 @@
+{
+  "pokemon_v2_pokemon": [
+    {
+      "name": "pikachu",
+      "id": 25,
+      "height": 4,
+      "weight": 60,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "electric"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 35,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 55,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 40,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 90,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "growl"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "thunder-shock"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "thunder-wave"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "quick-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "swift"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "agility"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "thunder"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "mega-punch"
+          }
+        }
+      ]
+    }
+  ]
+}

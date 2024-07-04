@@ -1,0 +1,2394 @@
+{
+  "pokemon_v2_pokemon": [
+    {
+      "name": "bulbasaur",
+      "id": 1,
+      "height": 7,
+      "weight": 69,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "grass"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 45,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 49,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 49,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 65,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 65,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 45,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "growl"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leech-seed"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "vine-whip"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "poison-powder"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "razor-leaf"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "growth"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "sleep-powder"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ivysaur",
+      "id": 2,
+      "height": 10,
+      "weight": 130,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "grass"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 60,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 62,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 63,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 60,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "growl"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leech-seed"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leech-seed"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "vine-whip"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "poison-powder"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "razor-leaf"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "growth"
+          }
+        }
+      ]
+    },
+    {
+      "name": "venusaur",
+      "id": 3,
+      "height": 20,
+      "weight": 1000,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "grass"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 82,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 83,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 100,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 100,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "vine-whip"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "growl"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leech-seed"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leech-seed"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "vine-whip"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "poison-powder"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "razor-leaf"
+          }
+        }
+      ]
+    },
+    {
+      "name": "charmander",
+      "id": 4,
+      "height": 6,
+      "weight": 85,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "fire"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 39,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 52,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 43,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 60,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 65,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "scratch"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "growl"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "ember"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leer"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "rage"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "slash"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "flamethrower"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "fire-spin"
+          }
+        }
+      ]
+    },
+    {
+      "name": "charmeleon",
+      "id": 5,
+      "height": 11,
+      "weight": 190,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "fire"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 58,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 64,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 58,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 65,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "scratch"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "growl"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "ember"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "ember"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leer"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "rage"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "slash"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "flamethrower"
+          }
+        }
+      ]
+    },
+    {
+      "name": "charizard",
+      "id": 6,
+      "height": 17,
+      "weight": 905,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "fire"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "flying"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 78,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 84,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 78,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 109,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 85,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 100,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "scratch"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leer"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "growl"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "ember"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "ember"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leer"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "rage"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "slash"
+          }
+        }
+      ]
+    },
+    {
+      "name": "squirtle",
+      "id": 7,
+      "height": 5,
+      "weight": 90,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "water"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 44,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 48,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 65,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 64,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 43,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "tail-whip"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "bubble"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "water-gun"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "bite"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "withdraw"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "skull-bash"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "hydro-pump"
+          }
+        }
+      ]
+    },
+    {
+      "name": "wartortle",
+      "id": 8,
+      "height": 10,
+      "weight": 225,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "water"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 59,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 63,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 65,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 58,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "tail-whip"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "bubble"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "bubble"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "water-gun"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "bite"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "withdraw"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "skull-bash"
+          }
+        }
+      ]
+    },
+    {
+      "name": "blastoise",
+      "id": 9,
+      "height": 16,
+      "weight": 855,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "water"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 79,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 83,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 100,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 85,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 105,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 78,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "tail-whip"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "water-gun"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "bubble"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "bubble"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "water-gun"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "bite"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "withdraw"
+          }
+        }
+      ]
+    },
+    {
+      "name": "caterpie",
+      "id": 10,
+      "height": 3,
+      "weight": 29,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "bug"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 45,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 30,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 35,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 20,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 20,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 45,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "string-shot"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "string-shot"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "string-shot"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "string-shot"
+          }
+        }
+      ]
+    },
+    {
+      "name": "metapod",
+      "id": 11,
+      "height": 7,
+      "weight": 99,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "bug"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 20,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 55,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 25,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 25,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 30,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        }
+      ]
+    },
+    {
+      "name": "butterfree",
+      "id": 12,
+      "height": 11,
+      "weight": 320,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "bug"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "flying"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 60,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 45,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 90,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 70,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "confusion"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "confusion"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "poison-powder"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "stun-spore"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "sleep-powder"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "supersonic"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "whirlwind"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "psybeam"
+          }
+        }
+      ]
+    },
+    {
+      "name": "weedle",
+      "id": 13,
+      "height": 3,
+      "weight": 32,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "bug"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 40,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 35,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 30,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 20,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 20,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "poison-sting"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "string-shot"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "poison-sting"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "string-shot"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "poison-sting"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "string-shot"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "poison-sting"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "string-shot"
+          }
+        }
+      ]
+    },
+    {
+      "name": "kakuna",
+      "id": 14,
+      "height": 6,
+      "weight": 100,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "bug"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 45,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 25,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 25,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 25,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 35,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "harden"
+          }
+        }
+      ]
+    },
+    {
+      "name": "beedrill",
+      "id": 15,
+      "height": 10,
+      "weight": 295,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "bug"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 65,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 90,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 40,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 45,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 75,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "fury-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "fury-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "focus-energy"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "twineedle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "rage"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "pin-missile"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "agility"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "swords-dance"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pidgey",
+      "id": 16,
+      "height": 3,
+      "weight": 18,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "normal"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "flying"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 40,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 45,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 40,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 35,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 35,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 56,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "gust"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "sand-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "quick-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "whirlwind"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "wing-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "agility"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "mirror-move"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "razor-wind"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pidgeotto",
+      "id": 17,
+      "height": 11,
+      "weight": 300,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "normal"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "flying"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 63,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 60,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 55,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 71,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "gust"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "sand-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "sand-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "quick-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "whirlwind"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "wing-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "agility"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "mirror-move"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pidgeot",
+      "id": 18,
+      "height": 15,
+      "weight": 395,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "normal"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "flying"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 83,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 75,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 70,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 70,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 101,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "gust"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "sand-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "quick-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "sand-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "quick-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "whirlwind"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "wing-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "agility"
+          }
+        }
+      ]
+    },
+    {
+      "name": "rattata",
+      "id": 19,
+      "height": 3,
+      "weight": 35,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "normal"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 30,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 56,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 35,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 25,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 35,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 72,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "tail-whip"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "quick-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "hyper-fang"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "focus-energy"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "super-fang"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "body-slam"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "take-down"
+          }
+        }
+      ]
+    },
+    {
+      "name": "raticate",
+      "id": 20,
+      "height": 7,
+      "weight": 185,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "normal"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 55,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 81,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 60,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 70,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 97,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "tackle"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "tail-whip"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "quick-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "quick-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "hyper-fang"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "focus-energy"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "super-fang"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "body-slam"
+          }
+        }
+      ]
+    },
+    {
+      "name": "spearow",
+      "id": 21,
+      "height": 3,
+      "weight": 20,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "normal"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "flying"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 40,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 60,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 30,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 31,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 31,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 70,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "growl"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "peck"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leer"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "fury-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "mirror-move"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "drill-peck"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "agility"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "razor-wind"
+          }
+        }
+      ]
+    },
+    {
+      "name": "fearow",
+      "id": 22,
+      "height": 12,
+      "weight": 380,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "normal"
+          }
+        },
+        {
+          "pokemon_v2_type": {
+            "name": "flying"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 65,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 90,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 65,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 61,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 61,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 100,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "leer"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "growl"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "peck"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leer"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "fury-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "mirror-move"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "drill-peck"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "agility"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ekans",
+      "id": 23,
+      "height": 20,
+      "weight": 69,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 35,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 60,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 44,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 40,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 54,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 55,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "wrap"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leer"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "poison-sting"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "bite"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "glare"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "screech"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "acid"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "body-slam"
+          }
+        }
+      ]
+    },
+    {
+      "name": "arbok",
+      "id": 24,
+      "height": 35,
+      "weight": 650,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 60,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 95,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 69,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 65,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 79,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 80,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "wrap"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "poison-sting"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "leer"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "poison-sting"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "bite"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "glare"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "screech"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "acid"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pikachu",
+      "id": 25,
+      "height": 4,
+      "weight": 60,
+      "pokemon_v2_pokemontypes": [
+        {
+          "pokemon_v2_type": {
+            "name": "electric"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonstats": [
+        {
+          "base_stat": 35,
+          "pokemon_v2_stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 55,
+          "pokemon_v2_stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 40,
+          "pokemon_v2_stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "pokemon_v2_stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 90,
+          "pokemon_v2_stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "pokemon_v2_pokemonmoves": [
+        {
+          "pokemon_v2_move": {
+            "name": "growl"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "thunder-shock"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "thunder-wave"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "quick-attack"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "swift"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "agility"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "thunder"
+          }
+        },
+        {
+          "pokemon_v2_move": {
+            "name": "mega-punch"
+          }
+        }
+      ]
+    }
+  ]
+}

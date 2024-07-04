@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Negro -->
+    <color name="black">#000000</color>
+    <!-- Blanco -->
+    <color name="white">#FFFFFF</color>
+    <!-- Blanco con 5% de opacidad -->
+    <color name="white_5">#0DFFFFFF</color>
+    <!-- Blanco con 20% de opacidad -->
+    <color name="white_20">#33FFFFFF</color>
+    <!-- Blanco con 30% de opacidad -->
+    <color name="white_30">#4DFFFFFF</color>
+    <!-- Blanco con 60% de opacidad -->
+    <color name="white_60">#99FFFFFF</color>
+    <!-- Gris con 70% de opacidad -->
+    <color name="gray_70">#B23D3D3D</color>
+    <!-- Gris-->
+    <color name="gray">#999999</color>
+    <!-- Blanco con 45% de opacidad -->
+    <color name="white_45">#73FFFFFF</color>
+    <!-- Blanco con 50% de opacidad -->
+    <color name="white_50">#80FFFFFF</color>
+    <!-- Gris #999999 con 45% de opacidad -->
+    <color name="gray_45">#73999999</color>
+    <!-- Amarrillo texto tabla -->
+    <color name="yellow">#EBC974</color>
+
+</resources>
